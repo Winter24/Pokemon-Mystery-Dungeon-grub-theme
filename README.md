@@ -1,5 +1,5 @@
 ## Preview img
-The actual bootloading screen is ok than this:
+The actual bootloading screen is better than this:
 <p align="center">
   <img src="https://github.com/Winter24/Pokemon-Mystery-Dungeon-grub-theme/blob/main/preview.jpeg" alt="Centered image" width="600" height="400" />
 </p>
