@@ -20,3 +20,6 @@ Edit the file
 ```
 sudo nano /boot/grub/themes/theme.txt
 ```
+
+for lightdm login screen:
+https://github.com/paysonwallach/aqua-lightdm-webkit-theme
